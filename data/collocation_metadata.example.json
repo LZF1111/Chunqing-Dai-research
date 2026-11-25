@@ -1,0 +1,19 @@
+{
+  "satellite_product": "MOD04_3K",
+  "satellite_product_version": "TO_BE_FILLED",
+  "aeronet_version": "V3_Level_2.0",
+  "temporal_window_minutes": 30,
+  "spatial_window": {
+    "shape": "radius",
+    "value_km": 25
+  },
+  "pixel_aggregation": "median",
+  "quality_rule_id": "TO_BE_FILLED",
+  "valid_pixel_min": 1,
+  "source_files": [
+    {
+      "name": "TO_BE_FILLED",
+      "sha256": "TO_BE_FILLED"
+    }
+  ]
+}
